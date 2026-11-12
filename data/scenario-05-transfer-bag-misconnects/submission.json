@@ -1,0 +1,6 @@
+{
+  "scenario": "05-transfer-bag-misconnects",
+  "decision": "binary",
+  "holdout_rows": 2000,
+  "capacity_share": 0.06
+}
